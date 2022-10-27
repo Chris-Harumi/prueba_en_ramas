@@ -1,0 +1,57 @@
+.tipodeletra {
+    font-family: fantasy;
+    text-align: center;
+}
+
+.yel {
+    background-color: beige;
+    width: 400px; /* ancho */
+    height: 250px; /* alto */
+    }
+
+
+
+.copa {
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+}
+
+.com {
+    /* propiedades decorativas */
+    border: solid 1px black;
+    padding: 50px;
+    font-size: 32px;
+    font-family: Arial;
+    /* propiedades que hacen el "problema" */
+    width: 200px;
+    height: 400px;
+    margin-top: 80px;
+}
+
+.cuadritodiacolor {
+    border-top:ridge 10px red;
+    border-right:inset 10px cyan;
+    border-bottom:dashed 10px green;
+    border-left:solid 10px yellow;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    }
+
+
+.cajin {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.pacentrar {
+    margin-right: auto;
+    margin-left: auto;
+}
